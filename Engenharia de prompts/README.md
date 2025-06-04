@@ -37,7 +37,7 @@ Torque Máximo: 820 Nm a 5.000 rpm
 Posição do Motor: Central-traseira (para melhor distribuição de peso)  
 Transmissão: Câmbio automatizado de dupla embreagem, 8 marchas
 
-## istema de Tração
+## Sistema de Tração
 
 Tração: Integral (AWD - All-Wheel Drive) com diferencial eletrônico ativo  
 Distribuição de Torque: Sistema adaptativo (até 70% traseira / 30% dianteira, ajustável dinamicamente)  
