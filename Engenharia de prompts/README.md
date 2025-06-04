@@ -3,13 +3,13 @@
 Tecnica usada que incentiva modelos de linguagem a ter um raciocínio passo a passo.
 
 
-# Prompt: Faça um projeto de um carro esportivo, com motor V8 de 4,0 litros, turboalimentado. 
+### Prompt: Faça um projeto de um carro esportivo, com motor V8 de 4,0 litros, turboalimentado. 
 
-# Definição do Escopo: Faça um projeto de um carro esportivo, com motor V8 de 4,0 litros, turboalimentado. 
+### Definição do Escopo: Faça um projeto de um carro esportivo, com motor V8 de 4,0 litros, turboalimentado. 
 
-# Requisito Específico de Saída: Faça a ficha técnica teste automóvel com dimensões, potência e sistema de tração.
+### Requisito Específico de Saída: Faça a ficha técnica teste automóvel com dimensões, potência e sistema de tração.
  
-# Restrições/Pilares Importantes: Pilares importantes: potência extrema, peso mínimo e tração impecável.
+### Restrições/Pilares Importantes: Pilares importantes: potência extrema, peso mínimo e tração impecável.
 
 
 ## Saída:
