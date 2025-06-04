@@ -14,6 +14,8 @@ Tecnica usada que incentiva modelos de linguagem a ter um raciocínio passo a pa
 
 ## Saída:
 
+---
+
 Ficha Técnica: Hyperion V8 Turbo 
 Especificações Gerais
 
