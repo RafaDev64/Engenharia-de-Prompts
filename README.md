@@ -14,9 +14,9 @@ Este projeto demonstra a aplicação de engenharia de prompt para criar conteúd
 ### Hyperion V8 Turbo
 - **Prompt Inicial**: Faça um projeto de um carro esportivo que faça de 0 a 100 na casa dos 3 segundos. Forneça foto e descrição
 ---
-  -![imagem]()
+  -![imagem](pergu)
   ---
-  -![imagem]()
+  
 
 - **Observação**: Forneceu somente imagem imagens.
 ---
