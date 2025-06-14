@@ -13,7 +13,13 @@ Este projeto demonstra a aplicação de engenharia de prompt para criar conteúd
 
 ### Hyperion V8 Turbo
 - **Prompt Inicial**: Faça um projeto de um carro esportivo que faça de 0 a 100 na casa dos 3 segundos. Forneça foto e descrição
-  -![imagem](img1-engenhariaDePrompt.jpg )
+---
+  -![imagem]()
+  ---
+  -![imagem]()
+
+- **Observação**: Forneceu somente imagem imagens.
+---
 - **Técnica**: Chain of Thought
 - **Prompt Otimizado**: Crie a ficha técnica do Hyperion V8 Turbo, um supercarro para entusiastas de pista, com motor V8 4.0L biturbo (>750 cv), peso <1.300 kg e AWD adaptativo. Inclua dimensões, desempenho e design inspirado em jatos stealth (cores exclusivas, linhas fluidas). Use tabela e texto descritivo, com linguagem visualmente atraente.
 - **Prompt Refinado**: Crie uma ficha técnica detalhada do Hyperion V8 Turbo, um supercarro de pista projetado para entusiastas, equipado com motor V8 4.0L biturbo entregando mais de 750 cv, peso inferior a 1.300 kg e tração AWD adaptativa. Inclua dimensões precisas (comprimento, largura, altura), desempenho (0-100 km/h em 2,7 s, velocidade máxima), e um design inspirado em jatos stealth com linhas fluidas, cores exclusivas (Midnight Sapphire e Solar Flare), e aerofólio ativo. Apresente em uma tabela clara e um texto descritivo visualmente atraente, destacando a estética futurista.
