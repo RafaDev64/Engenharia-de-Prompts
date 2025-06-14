@@ -1,9 +1,5 @@
 # 🚀 Projeto: Engenharia de Prompt
 
-Este repositório explora a engenharia de prompt para criar conteúdo automotivo de alto impacto, com foco em design, acessibilidade e manutenção. Inclui:  
-- 🏎️ **Hyperion V8 Turbo**: Um supercarro fictício com estética futurista.  
-- 🚗 **Carros Econômicos no Brasil**: Veículos acessíveis para 2025.  
-- 🔧 **Diagnóstico Toyota Hilux**: Solução para estalos na Hilux D4D 2010.
 
 ---
 
@@ -13,8 +9,7 @@ Este repositório explora a engenharia de prompt para criar conteúdo automotivo
   - [Hyperion V8 Turbo](#hyperion-v8-turbo)
   - [Carros Econômicos](#carros-econômicos-no-brasil)
   - [Diagnóstico Hilux](#diagnóstico-toyota-hilux)
-- [Como Contribuir](#-como-contribuir)
-- [Contato](#-contato)
+
 
 ---
 
